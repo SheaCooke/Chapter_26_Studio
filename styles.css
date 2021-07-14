@@ -1,0 +1,10 @@
+﻿body {
+    background-image: linear-gradient(to right, lightblue, lightgrey, lightblue);
+    text-align: center;
+}
+
+
+.bold{
+    
+    font-weight: bold;
+}
